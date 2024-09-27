@@ -15,7 +15,7 @@
 <h4>👯 I’m looking to collaborate on full-stack projects!</h4>
  
 <h4>💬 If I can help you, feel free to reach out!</h4>
- 
+ <!--
 <h4>📫 How to reach me: </br></h4>
 <p>
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -23,7 +23,7 @@
   <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-</p>
+</p> -->
 
 <h4>⚡Aside from already mentioned, I'm proficient in:</h4>
 <p>
