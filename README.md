@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-<h4>Welcome to my GitHub! I'm a versatile software engineering student with a passion for data analytics and data science across various platforms. My expertise also spans full-stack development, with hands-on experience in both front-end and back-end technologies! </h4>
+### Welcome to my GitHub! I'm a versatile software engineering student with a passion for data analytics and data science across various platforms. My expertise also spans full-stack development, with hands-on experience in both front-end and back-end technologies!
 
 <h4>🔭 I’m currently working in: </h4>
   <p>
