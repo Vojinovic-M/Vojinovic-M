@@ -42,10 +42,10 @@
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <!-- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
   <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
-  <img alt="Axios" src="https://img.shields.io/badge/-Axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
+  <!--<img alt="Axios" src="https://img.shields.io/badge/-Axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" /> -->
   <img alt="ChartJS" src="https://img.shields.io/badge/-Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
