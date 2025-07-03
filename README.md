@@ -10,15 +10,6 @@
 <h4>👯 I’m looking to collaborate on full-stack projects!</h4>
  
 <h4>💬 If I can help you, feel free to reach out!</h4>
- <!--
-<h4>📫 How to reach me: </br></h4>
-<p>
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-</p> -->
 
 <h4>⚡Aside from already mentioned, I am proficient and have experience in:</h4>
 <p>
@@ -36,10 +27,8 @@
   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <!-- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
   <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
-  <!--<img alt="Axios" src="https://img.shields.io/badge/-Axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" /> -->
   <img alt="ChartJS" src="https://img.shields.io/badge/-Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
